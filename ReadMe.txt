@@ -1,9 +1,9 @@
 
 *************************************************************************************************
-This is work is on analysis of Airline tweets for sentiments and performing loyalty prediction.
+This is work is on Sentiment Classification of Airline Tweet
 *************************************************************************************************
 
-The research on consumer loyalty evaluation using twitter data is appeared in:
+A part of this work appeared in research paper:
 http://thesai.org/Publications/ViewPaper?Volume=9&Issue=6&Code=IJACSA&SerialNo=52
 
 Cite the Work
